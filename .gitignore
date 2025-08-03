@@ -1,0 +1,7 @@
+.venv
+.idea
+__pycache__
+tools/__pycache__
+build
+dist
+git_short.egg-info
